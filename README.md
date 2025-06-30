@@ -59,7 +59,7 @@ we-think-elastic/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/we-think-elastic.git
+   git clone https://github.com/Vansh-Raikwar/we-think-elastic.git
    cd we-think-elastic
    ```
 
